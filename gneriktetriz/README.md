@@ -4,14 +4,16 @@
 
 * Creator: gnerikuser
 
-* From: https://github.com/gnerikuser/gnerikTETRIZ
+* Code: https://github.com/gnerikuser/gnerikTETRIZ
+
+* Forked from: https://github.com/dionyziz/canvas-tetris
 ____________________________________________________________________________________________
 
 ## README.md:
 
 A very simple HTML5 version of Tetris
 ____________________________________________________________________________________________
-##License
+## License
 
 MIT License
 
