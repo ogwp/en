@@ -1,14 +1,17 @@
+## Information of the game
+
 * Name of the game: gnerikTETRIZ
 
 * Creator: gnerikuser
 
 * From: https://github.com/gnerikuser/gnerikTETRIZ
-
+____________________________________________________________________________________________
 
 ## README.md:
 
 A very simple HTML5 version of Tetris
 ____________________________________________________________________________________________
+##License
 
 MIT License
 
