@@ -9,10 +9,6 @@
 * Forked from: https://github.com/dionyziz/canvas-tetris
 ____________________________________________________________________________________________
 
-## README.md:
-
-A very simple HTML5 version of Tetris
-____________________________________________________________________________________________
 ## License
 
 MIT License
