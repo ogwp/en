@@ -1,7 +1,8 @@
-A very simple HTML5 version of Tetris
+Name of the game: gnerikTETRIZ
 
-You can play it in:
-https://gnerikuser.github.io/gnerikTETRIZ
+README.md:
+
+A very simple HTML5 version of Tetris
 ____________________________________________________________________________________________-
 MIT License
 
