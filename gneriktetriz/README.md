@@ -1,9 +1,14 @@
-Name of the game: gnerikTETRIZ
+* Name of the game: gnerikTETRIZ
 
-README.md:
+* Creator: gnerikuser
+
+* From: https://github.com/gnerikuser/gnerikTETRIZ
+
+##README.md:
 
 A very simple HTML5 version of Tetris
-____________________________________________________________________________________________-
+____________________________________________________________________________________________
+
 MIT License
 
 Copyright (c) 2012 Dionysis "dionyziz" Zindros dionyziz@gmail.com
