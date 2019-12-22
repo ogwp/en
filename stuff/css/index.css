@@ -1,1 +1,19 @@
 h1 {
+  font-family: 'Bungee Shade', cursive;
+  font-weight:bold;
+  font-size:40px;
+}
+h2 {
+  font-family: 'Noto Sans', sans-serif;
+  font-weight:bold;
+  font-size:20px;
+h3 {
+  font-family: 'Poppins', sans-serif;
+  font-weight:normal;
+  font-size:30px;
+}
+p {
+  font-family: 'Roboto', sans-serif;
+  font-weight:normal;
+  font-size:5px
+}
