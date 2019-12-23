@@ -1,1 +1,1 @@
-Last version: #### 2.3
+### Last version: 2.3
