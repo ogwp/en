@@ -1,1 +1,1 @@
-### Last version: 2.4
+### Last version: 2.5
