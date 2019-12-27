@@ -1,6 +1,6 @@
 ## Information of the game
 
-* Name of the game: OGWP and 
+* Name of the game: Rockpapsci
 
 * Creator: OGWP team and JcOzores97
 
