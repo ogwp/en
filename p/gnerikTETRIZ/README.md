@@ -2,7 +2,7 @@
 
 * Name of the game: gnerikTETRIZ
 
-* Creator: gnerikuser
+* Creator: gnerikuser and dionyziz
 
 * Code: https://github.com/gnerikuser/gnerikTETRIZ
 
