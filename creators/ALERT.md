@@ -1,3 +1,3 @@
 # ⚠️WARING⚠️
 
-### 🚨 This page contains uncomplete content.
+### 🚨 This page contains uncomplete content
