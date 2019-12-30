@@ -1,6 +1,6 @@
 ## Information of the game
 
-* Name of the game: Dot-A-Ball! HTML
+* Name of the game: Dot-A-Ball! HTML CSS Editon
 
 * Creator: gnerikuser
 
