@@ -1,3 +1,2 @@
-### Last version: 3 -> 4
-#### We´re working in version 4 actually
+### Last version: 4
 Backup page: https://gitlab.com/gnerikuser/ogwp
