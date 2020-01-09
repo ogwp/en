@@ -1,3 +1,2 @@
-### Last version: 4
-#### Version 4.1 in progress!
+### Last version: 4.1
 Backup page: https://gitlab.com/gnerikuser/ogwp-backups
