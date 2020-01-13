@@ -15,7 +15,11 @@ First download the client or the client and the server, if you like make a serve
 
 ### Screenshoots
 
+#### MyPyMC Server v.1.0
+
 ![MyPyMC Server v.1.0](https://ogwp.github.io/mypymc/mypymc-server-1-0.png)
+
+#### MyPyMC Client v.1.0
 
 ![MyPyMC Server v.1.0](https://ogwp.github.io/mypymc/mypymc-server-1-0)
 
