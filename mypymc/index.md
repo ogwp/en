@@ -1,39 +1,24 @@
 # MyPyMC
 
-#### Download
 
-You can use the [editor on GitHub](https://github.com/ogwp-mypymc/ogwp-mypymc.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## [FAQ](https://github.com/ogwp-mypymc/ogwp-mypymc.github.io/edit/master/index.md) - [Screenshoots](https://github.com/ogwp-mypymc/ogwp-mypymc.github.io/edit/master/index.md) - [Downloads](https://github.com/ogwp-mypymc/ogwp-mypymc.github.io/edit/master/index.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### FAQ
 
-### Markdown
+#### What is it?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+MyPyMC (or My Python Message Client) is an messaging client focus in servers.
 
-```markdown
-Syntax highlighted code block
+#### How I use it?
 
-# Header 1
-## Header 2
-### Header 3
+First download the client or the client and the server, if you like make a server open "server.py" and invite your friends sending your IP adress and password, if not only start the client (MyPyMC.py), put an IP adress and password and put a nickname.
 
-- Bulleted
-- List
+### Screenshoots
 
-1. Numbered
-2. List
+![MyPyMC Server v.1.0](https://ogwp.github.io/mypymc/mypymc-server-1-0)
 
-**Bold** and _Italic_ and `Code` text
+![MyPyMC Server v.1.0](https://ogwp.github.io/mypymc/mypymc-server-1-0)
 
-[Link](url) and ![Image](src)
-```
+### Downloads
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ogwp-mypymc/ogwp-mypymc.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### [MyPyMC Server](https://github.com/ogwp-mypymc/ogwp-mypymc.github.io/edit/master/index.md) - [MyPyMC Client]()
