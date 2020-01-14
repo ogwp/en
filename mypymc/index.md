@@ -21,10 +21,14 @@ First download the client or the client and the server, if you like make a serve
 
 #### MyPyMC Client v.1.0
 
-![MyPyMC Client v.1.0](ogwp.github.io/mypymc/client1-0photo1.png)
+![MyPyMC Client v.1.0](https://ogwp.github.io/mypymc/client1-0photo1.png)
 
 ### Downloads
 
 #### [MyPyMC Server](https://github.com/ogwp/MyPyMC/releases/download/v1.0/server.py) - [MyPyMC Client](https://github.com/ogwp/MyPyMC/releases/download/v1.0/client.py)
 
 #### [See more realeases](https://github.com/ogwp/MyPyMC/releases)
+
+
+
+#### Since January 13, 2020-Today, made with ❤️, the [OGWP team](https://ogwp.github.io/team)
