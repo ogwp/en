@@ -31,4 +31,4 @@ First download the client or the client and the server, if you like make a serve
 
 
 
-#### Since January 13, 2020-Today, made with ❤️, the [OGWP team](https://ogwp.github.io/team)
+#### Since January 13, 2020-Today, made with ❤️, the [OGWP team](https://ogwp.github.io/team).
