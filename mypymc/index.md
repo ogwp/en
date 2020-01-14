@@ -1,7 +1,7 @@
 # MyPyMC
 
 
-## [FAQ](#faq) - [Screenshoots](#screenshoots) - [Downloads](#downloads) - []()
+## [FAQ](#faq) - [Screenshots](#screenshoots) - [Downloads](#downloads)
 
 ### FAQ
 
@@ -13,15 +13,15 @@ MyPyMC (or My Python Message Client) is an messaging client focus in servers.
 
 First download the client or the client and the server, if you like make a server open "server.py" and invite your friends sending your IP adress and password, if not only start the client (MyPyMC.py), put an IP adress and password and put a nickname.
 
-### Screenshoots
+### Screenshots
 
 #### MyPyMC Server v.1.0
 
-![MyPyMC Server v.1.0](https://ogwp.github.io/mypymc/server1-0photo2.png)
+![MyPyMC Server v.1.0 Screenshot](https://ogwp.github.io/mypymc/server1-0photo2.png)
 
 #### MyPyMC Client v.1.0
 
-![MyPyMC Client v.1.0](https://ogwp.github.io/mypymc/client1-0photo1.png)
+![MyPyMC Client v.1.0 Screenshot](https://ogwp.github.io/mypymc/client1-0photo1.png)
 
 ### Downloads
 
@@ -31,4 +31,4 @@ First download the client or the client and the server, if you like make a serve
 
 
 
-#### Since January 13, 2020-Today, made with ❤️, the [OGWP team](https://ogwp.github.io/team).
+###### Since January 13, 2020-Today, made with ❤️, the [OGWP team](https://ogwp.github.io/team).
