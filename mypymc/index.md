@@ -1,7 +1,7 @@
 # MyPyMC
 
 
-## [FAQ](https://github.com/ogwp-mypymc/ogwp-mypymc.github.io/edit/master/index.md) - [Screenshoots](https://github.com/ogwp-mypymc/ogwp-mypymc.github.io/edit/master/index.md) - [Downloads](https://github.com/ogwp-mypymc/ogwp-mypymc.github.io/edit/master/index.md)
+## [FAQ](#faq) - [Screenshoots](#screenshoots) - [Downloads](#downloads) - []()
 
 ### FAQ
 
@@ -17,12 +17,14 @@ First download the client or the client and the server, if you like make a serve
 
 #### MyPyMC Server v.1.0
 
-![MyPyMC Server v.1.0](https://ogwp.github.io/mypymc/mypymc-server-1-0.png)
+![MyPyMC Server v.1.0](https://ogwp.github.io/mypymc/server1-0photo2.png)
 
 #### MyPyMC Client v.1.0
 
-![MyPyMC Server v.1.0](https://ogwp.github.io/mypymc/mypymc-server-1-0)
+![MyPyMC Client v.1.0](ogwp.github.io/mypymc/client1-0photo1.png)
 
 ### Downloads
 
-#### [MyPyMC Server](https://github.com/ogwp-mypymc/ogwp-mypymc.github.io/edit/master/index.md) - [MyPyMC Client]()
+#### [MyPyMC Server](https://github.com/ogwp/MyPyMC/releases/download/v1.0/server.py) - [MyPyMC Client](https://github.com/ogwp/MyPyMC/releases/download/v1.0/client.py)
+
+#### [See more realeases](https://github.com/ogwp/MyPyMC/releases)
