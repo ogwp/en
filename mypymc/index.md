@@ -1,7 +1,7 @@
 # MyPyMC
 
 
-## [FAQ](#faq) - [Screenshots](#screenshoots) - [Downloads](#downloads)
+## [FAQ](#faq) - [Screenshots](#screenshots) - [Downloads](#downloads)
 
 ### FAQ
 
@@ -21,7 +21,7 @@ First download the client or the client and the server, if you like make a serve
 
 #### MyPyMC Client v.1.0
 
-![MyPyMC Client v.1.0 Screenshot](https://ogwp.github.io/mypymc/client1-0photo1.png)
+![MyPyMC Client v.1.0 Screenshot](https://ogwp.github.io/mypymc/user1-0photo1.png)
 
 ### Downloads
 
