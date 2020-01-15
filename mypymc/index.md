@@ -1,5 +1,5 @@
 [![MyPyMC Logo](https://ogwp.github.io/mypymc/mypymcmini.png)](https://ogwp.github.io/mypymc)
-#### [FAQ](#faq) - [Screenshots](#screenshots) - [Downloads](#downloads) - [Source code](#source-code)
+#### [FAQ](#faq) - [Screenshots](#screenshots) - [Downloads](#downloads) - [Source code](#source-code) - [Bug reporter](https://ogwp.github.io/bug/reporter)
 
 ## FAQ
 
