@@ -24,13 +24,13 @@ First download the client or the client and the server, if you like make a serve
 
 ## Downloads
 
-### [MyPyMC Server](https://github.com/ogwp/MyPyMC/releases/download/v1.0/server.py) - [MyPyMC Client](https://github.com/ogwp/MyPyMC/releases/download/v1.0/client.py)
+#### [MyPyMC Server](https://github.com/ogwp/MyPyMC/releases/download/v1.0/server.py) - [MyPyMC Client](https://github.com/ogwp/MyPyMC/releases/download/v1.0/client.py)
 
-### [See more realeases](https://github.com/ogwp/MyPyMC/releases)
+#### [See all realeases](https://github.com/ogwp/MyPyMC/releases)
 
 ## Source code
 
-### [GitHub](https://github.com/ogwp/MyPyMC) - [GitLab](https://gitlab.com/ogwp/MyPyMC)
+#### [GitHub](https://github.com/ogwp/MyPyMC) - [GitLab](https://gitlab.com/ogwp/MyPyMC)
 
 
 
