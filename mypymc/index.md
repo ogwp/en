@@ -1,5 +1,5 @@
 # MyPyMC
-![MyPyMC Logo](https://assets.gitlab-static.net/uploads/-/system/project/avatar/16321950/mypymc.png?width=64)
+![MyPyMC Logo](https://ogwp.github.io/mypymc/mypymcmini.png)
 
 ## [FAQ](#faq) - [Screenshots](#screenshots) - [Downloads](#downloads) - [Source code](#source-code)
 
