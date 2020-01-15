@@ -1,5 +1,5 @@
 # MyPyMC
-
+![MyPyMC Logo](https://assets.gitlab-static.net/uploads/-/system/project/avatar/16321950/mypymc.png?width=64)
 
 ## [FAQ](#faq) - [Screenshots](#screenshots) - [Downloads](#downloads) - [Source code](#source-code)
 
@@ -31,9 +31,7 @@ First download the client or the client and the server, if you like make a serve
 
 ### Source code
 
-#### [GitHub](https://github.com/ogwp/MyPyMC)
-
-#### [GitLab](https://gitlab.com/ogwp/MyPyMC)
+#### [GitHub](https://github.com/ogwp/MyPyMC) - [GitLab](https://gitlab.com/ogwp/MyPyMC)
 
 
 
