@@ -1,4 +1,4 @@
-## Last version: [5](https://gitlab.com/ogwpd/backups/raw/ogwp.github.io/1-28-2020.zip)
+## Last version: [5](https://ogwp.github.io/releases-info/5)
 
 Site created 4 servers
 
