@@ -28,3 +28,9 @@ p {
   text-align: center;
   font-size:25px;
 }
+#jr {
+  font-family: 'Noto Sans', sans-serif;
+  font-weight:bold;
+  text-align: center;
+  font-size:10px;
+}
