@@ -1,4 +1,4 @@
-## Last version: [5](https://ogwpd.github.io/releases/ogwp/5.1)
+## Last version: [5.1](https://ogwpd.github.io/releases/ogwp/5.1)
 
 Site created 4 servers
 
